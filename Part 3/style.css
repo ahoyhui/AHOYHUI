@@ -1,0 +1,22 @@
+#wrapper{
+	width:1250px;
+	height:1000px;
+	background-color:white;
+}
+
+#div1{
+	width:300px;
+	height:300px;
+	background-color:blue;
+	position:inline-block;
+	float:left;
+}
+
+#div2{
+	width:300px;
+	height:300px;
+	background-color:green;
+	position:inline-block;
+	float:right;
+	
+}
